@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/icon">
+        <file>D:/image/bg.png</file>
+        <file>D:/image/btnImage.png</file>
+        <file>D:/image/cameraclose.png</file>
+        <file>D:/image/cameraopen.png</file>
+        <file>D:/image/enterUI.png</file>
+        <file>D:/image/home.png</file>
+        <file>D:/image/login.png</file>
+        <file>D:/image/openImg.png</file>
+        <file>D:/image/register.png</file>
+        <file>D:/image/takephoto.png</file>
+        <file>D:/image/detect.png</file>
+    </qresource>
+</RCC>
